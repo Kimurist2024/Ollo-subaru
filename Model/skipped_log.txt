@@ -1,0 +1,68 @@
+043 frame079: ❌ gradientエラー all input arrays must have the same shape
+043 frame080: ❌ gradientエラー all input arrays must have the same shape
+043 frame081: ❌ gradientエラー all input arrays must have the same shape
+043 frame082: ❌ gradientエラー all input arrays must have the same shape
+043 frame083: ❌ gradientエラー all input arrays must have the same shape
+043 frame084: ❌ gradientエラー all input arrays must have the same shape
+043 frame085: ❌ gradientエラー all input arrays must have the same shape
+043 frame086: ❌ gradientエラー all input arrays must have the same shape
+043 frame087: ❌ gradientエラー all input arrays must have the same shape
+043 frame088: ❌ gradientエラー all input arrays must have the same shape
+043 frame089: ❌ gradientエラー all input arrays must have the same shape
+043 frame090: ❌ gradientエラー all input arrays must have the same shape
+043 frame091: ❌ gradientエラー all input arrays must have the same shape
+043 frame092: ❌ gradientエラー all input arrays must have the same shape
+043 frame093: ❌ gradientエラー all input arrays must have the same shape
+043 frame094: ❌ gradientエラー all input arrays must have the same shape
+043 frame095: ❌ gradientエラー all input arrays must have the same shape
+043 frame096: ❌ gradientエラー all input arrays must have the same shape
+043 frame097: ❌ gradientエラー Shape of array too small to calculate a numerical gradient, at least (edge_order + 1) elements are required.
+043 frame098: ❌ gradientエラー Shape of array too small to calculate a numerical gradient, at least (edge_order + 1) elements are required.
+043 frame099: ❌ gradientエラー Shape of array too small to calculate a numerical gradient, at least (edge_order + 1) elements are required.
+043 frame100: ❌ gradientエラー Shape of array too small to calculate a numerical gradient, at least (edge_order + 1) elements are required.
+043 frame101: ❌ gradientエラー Shape of array too small to calculate a numerical gradient, at least (edge_order + 1) elements are required.
+043 frame102: ❌ gradientエラー Shape of array too small to calculate a numerical gradient, at least (edge_order + 1) elements are required.
+043 frame103: ❌ gradientエラー Shape of array too small to calculate a numerical gradient, at least (edge_order + 1) elements are required.
+043 frame104: ❌ gradientエラー Shape of array too small to calculate a numerical gradient, at least (edge_order + 1) elements are required.
+043 frame105: ❌ gradientエラー Shape of array too small to calculate a numerical gradient, at least (edge_order + 1) elements are required.
+043 frame106: ❌ gradientエラー Shape of array too small to calculate a numerical gradient, at least (edge_order + 1) elements are required.
+043 frame107: ❌ gradientエラー Shape of array too small to calculate a numerical gradient, at least (edge_order + 1) elements are required.
+043 frame108: ❌ gradientエラー Shape of array too small to calculate a numerical gradient, at least (edge_order + 1) elements are required.
+043 frame109: ❌ gradientエラー Shape of array too small to calculate a numerical gradient, at least (edge_order + 1) elements are required.
+043 frame110: ❌ gradientエラー Shape of array too small to calculate a numerical gradient, at least (edge_order + 1) elements are required.
+043 frame111: ❌ gradientエラー Shape of array too small to calculate a numerical gradient, at least (edge_order + 1) elements are required.
+043 frame112: ❌ gradientエラー Shape of array too small to calculate a numerical gradient, at least (edge_order + 1) elements are required.
+044 frame103: ❌ gradientエラー all input arrays must have the same shape
+044 frame104: ❌ gradientエラー all input arrays must have the same shape
+044 frame105: ❌ gradientエラー all input arrays must have the same shape
+044 frame106: ❌ gradientエラー all input arrays must have the same shape
+058 frame107: ❌ gradientエラー all input arrays must have the same shape
+083 frame119: ❌ gradientエラー all input arrays must have the same shape
+087 frame124: ❌ gradientエラー all input arrays must have the same shape
+088 frame112: ❌ gradientエラー all input arrays must have the same shape
+092 frame123: ❌ gradientエラー all input arrays must have the same shape
+092 frame124: ❌ gradientエラー all input arrays must have the same shape
+092 frame125: ❌ gradientエラー all input arrays must have the same shape
+093 frame118: ❌ gradientエラー all input arrays must have the same shape
+112 frame087: ❌ gradientエラー all input arrays must have the same shape
+115 frame101: ❌ gradientエラー all input arrays must have the same shape
+121 frame107: ❌ gradientエラー all input arrays must have the same shape
+121 frame108: ❌ gradientエラー all input arrays must have the same shape
+126 frame106: ❌ gradientエラー all input arrays must have the same shape
+127 frame099: ❌ gradientエラー all input arrays must have the same shape
+129 frame121: ❌ gradientエラー all input arrays must have the same shape
+135 frame096: ❌ gradientエラー all input arrays must have the same shape
+177 frame104: ❌ gradientエラー all input arrays must have the same shape
+177 frame105: ❌ gradientエラー all input arrays must have the same shape
+199 frame078: ❌ gradientエラー all input arrays must have the same shape
+199 frame079: ❌ gradientエラー all input arrays must have the same shape
+211 frame073: ❌ gradientエラー all input arrays must have the same shape
+211 frame074: ❌ gradientエラー all input arrays must have the same shape
+211 frame075: ❌ gradientエラー all input arrays must have the same shape
+211 frame076: ❌ gradientエラー all input arrays must have the same shape
+211 frame077: ❌ gradientエラー all input arrays must have the same shape
+211 frame078: ❌ gradientエラー all input arrays must have the same shape
+211 frame079: ❌ gradientエラー all input arrays must have the same shape
+211 frame080: ❌ gradientエラー all input arrays must have the same shape
+211 frame081: ❌ gradientエラー all input arrays must have the same shape
+233 frame119: ❌ gradientエラー all input arrays must have the same shape
